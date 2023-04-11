@@ -12,7 +12,7 @@ git clone https://github.com/fatih1453/Google98.git
 Projeyi cloneladiktan sonra Visual Studio Code programinda açiniz.
 Linux için:
 ```
-cd kodluyoruzilkrepo
+cd Google98
 code .
 ```
 ## Contributing
